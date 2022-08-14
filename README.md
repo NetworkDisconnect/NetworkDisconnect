@@ -1,4 +1,4 @@
-<h1>Hey! 👋, I'm Disconnected</h1>
+<h1>Hey! 👋 i'm Disconnected</h1>
 <h3>Founder @ Kortex Industries & Fallout Email</h3>
 
 - 🔭 I’m currently working on [Fallout Email](https://fallout.email)
