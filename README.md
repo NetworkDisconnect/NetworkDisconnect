@@ -1,5 +1,5 @@
 <h1>Hey! 👋 i'm Disconnected</h1>
-<h3>Founder of Fallout Email & Wannabe Developer</h3>
+<h3>Founder of Fallout Email & a wannabe Developer</h3>
 
 - 🔭 I’m currently working on [Fallout Email](https://fallout.email)
 
